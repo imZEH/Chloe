@@ -1,1 +1,4 @@
 # Chloe
+
+# Release
+  v1.0.2
